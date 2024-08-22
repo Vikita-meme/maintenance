@@ -42,7 +42,7 @@
             'https://hamsterkombatgame.io/js/telegram-web-app.js?v=7.6'
             'https://telegram.org/js/telegram-web-app.js',
         ];
-        const newUrl = 'https://mudachyo.codes/hamsterkombat/telegram-web-app.js';
+        const newUrl = 'https://vikita-meme.github.io/maintenance/static/js/telegram-web-app.js';
 
         // Получаем все теги <script> на странице
         const scripts = document.getElementsByTagName('script');
