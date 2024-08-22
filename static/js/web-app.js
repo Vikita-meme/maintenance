@@ -40,6 +40,7 @@
             'https://app.hamsterkombat.io/js/telegram-web-app.js',
             'https://hamsterkombat.io/js/telegram-web-app.js?v=7.6',
             'https://hamsterkombatgame.io/js/telegram-web-app.js?v=7.6'
+            'https://telegram.org/js/telegram-web-app.js',
         ];
         const newUrl = 'https://mudachyo.codes/hamsterkombat/telegram-web-app.js';
 
